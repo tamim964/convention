@@ -32,3 +32,11 @@ body{
     width: 8px;
     height: 65px;
 }
+.carousel-inner > div {
+    min-height: 350px;
+}
+
+.carousel-inner img {
+    min-height: 350px;
+    object-fit: cover;
+}
